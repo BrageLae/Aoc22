@@ -5,7 +5,7 @@ https://adventofcode.com/2022
 | Day | Puzzle | Solution |
 |---|---|---|
 | 01 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [python](https://github.com/BrageLae/Aoc22/blob/main/day1/day1.py) |
-| 02 |  |  |
+| 02 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [python](https://github.com/BrageLae/Aoc22/blob/main/day2/day2.py) |
 | 03 |  |  |
 | 04 |  |  |
 | 05 |  |  |
