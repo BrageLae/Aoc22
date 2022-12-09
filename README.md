@@ -12,7 +12,7 @@ https://adventofcode.com/2022
 | 06 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [python](https://github.com/BrageLae/Aoc22/blob/main/day6/day6.py) |
 | 07 |  |  |
 | 08 |  |  |
-| 09 |  |  |
+| 09 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [python]((https://github.com/BrageLae/Aoc22/blob/main/day9/day9.py)) |
 | 10 |  |  |
 | 11 |  |  |
 | 12 |  |  |
