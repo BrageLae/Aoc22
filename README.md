@@ -7,9 +7,9 @@ https://adventofcode.com/2022
 | 01 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [python](https://github.com/BrageLae/Aoc22/blob/main/day1/day1.py) |
 | 02 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [python](https://github.com/BrageLae/Aoc22/blob/main/day2/day2.py) |
 | 03 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [python](https://github.com/BrageLae/Aoc22/blob/main/day3/day3.py) |
-| 04 |  |  |
-| 05 |  |  |
-| 06 |  |  |
+| 04 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [python](https://github.com/BrageLae/Aoc22/blob/main/day4/day4.py) |
+| 05 | [Supply Stacks](https://adventofcode.com/2022/day/5) | [python](https://github.com/BrageLae/Aoc22/blob/main/day5/day5.py) |
+| 06 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [python](https://github.com/BrageLae/Aoc22/blob/main/day6/day6.py) |
 | 07 |  |  |
 | 08 |  |  |
 | 09 |  |  |
