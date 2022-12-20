@@ -14,7 +14,7 @@ https://adventofcode.com/2022
 | 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [python](https://github.com/BrageLae/Aoc22/blob/main/day8/day8.py) |
 | 09 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [python](https://github.com/BrageLae/Aoc22/blob/main/day9/day9.py) |
 | 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [python](https://github.com/BrageLae/Aoc22/blob/main/day10/day10.py) |
-| 11 |  |  |
+| 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [python](https://github.com/BrageLae/Aoc22/blob/main/day11/day11.py) |
 | 12 |  |  |
 | 13 |  |  |
 | 14 |  |  |
